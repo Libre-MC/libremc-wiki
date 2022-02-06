@@ -1,2 +1,2 @@
 # libremc-wiki
-The Wiki for LibreMC
+https://github.com/Libre-MC/libremc-wiki/wiki
